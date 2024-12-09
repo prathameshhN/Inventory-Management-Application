@@ -1,5 +1,5 @@
 GO
-/****** Object:  StoredProcedure [dbo].[uspLogin]    Script Date: 2/15/2020 10:09:15 AM ******/
+/****** Object:  StoredProcedure [dbo].[uspLogin]  
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
